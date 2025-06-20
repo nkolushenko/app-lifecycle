@@ -1,0 +1,10 @@
+{
+  "name": "app-lifecycle",
+  "version": "1.0.0",
+  "displayName": "Unity App Lifecycle",
+  "description": "Lightweight and fast lifecycle dispatcher for Unity runtime systems (focus, pause, quit, update).",
+  "author": {
+    "name": "Anastasiya Kolushenko",
+    "email": "anastasiya.kolushenko@gmail.com"
+  }
+}
