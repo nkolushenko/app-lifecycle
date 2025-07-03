@@ -4,7 +4,7 @@
   "displayName": "Unity App Lifecycle",
   "description": "Lightweight and fast lifecycle dispatcher for Unity runtime systems (focus, pause, quit, update).",
   "author": {
-    "name": "Anastasiya Kolushenko",
+    "name": "Anastasia Kolushenko",
     "email": "anastasiya.kolushenko@gmail.com"
   }
 }
